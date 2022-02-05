@@ -31,16 +31,101 @@ Teams of two students may be allowed in rare circumstances. The TAs will randoml
 
 Students should submit the list of members of their team to the TAs. (See list of deadlines below.) The TAs will form groups for students not already on a team and will add students to teams of two. Team members may divide up certain aspects of the project, but it must be a group effort and include contributions from every member.
 
-| DUE DATES | DELIVERABLES |
-| --- | --- |
-| One day before Lec 10 | **Members of team**. Send members of your team to the TAs via email, if you wish to form your own team. |
-| Lec 10 | TAs will assign students not already in teams. |
-| Two days after Lec 11 | **Topic of project**, and a very brief description. Send this information to the TAs. This should be a one paragraph description of the project. If desired teams can present descriptions of two different projects. In this case, the TAs will provide feedback to the teams on the possible merits of the two proposals. |
-| Lec 13 | **Draft of project proposal**. Teams should submit a 1 page proposal giving a brief description of the project being modeled. The proposal should describe the solution technique that will be used (or will be developed) as well as the data to be collected. |
-| Midterm exam 2 (between lectures 15 and 16) | **Final project proposal**. Students should submit a revision of the draft due at Lecture 13, taking into account what they have learned in the past two weeks. |
-| Lecture 17 | Students will vote on which class projects they would like to see presented in the last two class sessions. The remaining teams will make oral presentations outside of class (see below). |
-| Lecture 20 |  {{< br >}}{{< br >}} There are two written deliverables for the final project. {{< br >}}{{< br >}} **Final team paper**. This 4 to 6 page paper should include a more detailed description of the goals of the project and what was accomplished. It can also include comments on efforts that did not produce the intended results. It should conclude with ways in which the project could have been enhanced if there were more time and if data were more easily available. The write-up may include charts, small tables, and graphs. Large tables, copies of any spreadsheets, and any other model analysis may be included as desired, but as an appendix (not part of the 4 to 6 pages). {{< br >}}{{< br >}} **Write-up on individual leanings**. In addition to the team project, each team member should submit a separate one-page description of one or two mistakes that you learned from when carrying out the project. Ideally, the mistake(s) that you learned from should have longer-term implications for yourself (e.g., learning about how to write a useful model, or what kind of data is useful, or what kind of data is available, or how hard it is to develop a new solution technique, or the time it takes to accomplish certain types of tasks). {{< br >}}{{< br >}}  |
-| Lectures 22–23 | **Team presentations**. Teams that are not presenting during Lectures 22–23 should select a 15 minute time slot in which they will make a team presentation. The remaining teams will be able to sign up for time slots outside of class hours for their 10–15 minutes presentations. Sign up for time slots will take place the preceding week. The PowerPoint presentations should involve all team members. (Other presentation software may be used instead of PowerPoint.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+DELIVERABLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One day before Lec 10
+{{< tdclose >}}
+{{< tdopen >}}
+**Members of team**. Send members of your team to the TAs via email, if you wish to form your own team.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 10
+{{< tdclose >}}
+{{< tdopen >}}
+TAs will assign students not already in teams.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two days after Lec 11
+{{< tdclose >}}
+{{< tdopen >}}
+**Topic of project**, and a very brief description. Send this information to the TAs. This should be a one paragraph description of the project. If desired teams can present descriptions of two different projects. In this case, the TAs will provide feedback to the teams on the possible merits of the two proposals.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 13
+{{< tdclose >}}
+{{< tdopen >}}
+**Draft of project proposal**. Teams should submit a 1 page proposal giving a brief description of the project being modeled. The proposal should describe the solution technique that will be used (or will be developed) as well as the data to be collected.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam 2 (between lectures 15 and 16)
+{{< tdclose >}}
+{{< tdopen >}}
+**Final project proposal**. Students should submit a revision of the draft due at Lecture 13, taking into account what they have learned in the past two weeks.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 17
+{{< tdclose >}}
+{{< tdopen >}}
+Students will vote on which class projects they would like to see presented in the last two class sessions. The remaining teams will make oral presentations outside of class (see below).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+There are two written deliverables for the final project.
+
+**Final team paper**. This 4 to 6 page paper should include a more detailed description of the goals of the project and what was accomplished. It can also include comments on efforts that did not produce the intended results. It should conclude with ways in which the project could have been enhanced if there were more time and if data were more easily available. The write-up may include charts, small tables, and graphs. Large tables, copies of any spreadsheets, and any other model analysis may be included as desired, but as an appendix (not part of the 4 to 6 pages).
+
+**Write-up on individual leanings**. In addition to the team project, each team member should submit a separate one-page description of one or two mistakes that you learned from when carrying out the project. Ideally, the mistake(s) that you learned from should have longer-term implications for yourself (e.g., learning about how to write a useful model, or what kind of data is useful, or what kind of data is available, or how hard it is to develop a new solution technique, or the time it takes to accomplish certain types of tasks).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lectures 22–23
+{{< tdclose >}}
+{{< tdopen >}}
+**Team presentations**. Teams that are not presenting during Lectures 22–23 should select a 15 minute time slot in which they will make a team presentation. The remaining teams will be able to sign up for time slots outside of class hours for their 10–15 minutes presentations. Sign up for time slots will take place the preceding week. The PowerPoint presentations should involve all team members. (Other presentation software may be used instead of PowerPoint.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------

@@ -43,19 +43,154 @@ The class will use [Piazza](https://piazza.com/) for online discussions and anno
 Grading
 -------
 
-| COURSE WORKS | PERCENTAGES |
-| --- | --- |
-| {{< td-colspan 2 >}}**Problem sets**{{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} Written (not spreadsheet-based) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 10% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Spreadsheets {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 10% {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**In-class quizzes**{{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} Quiz 1 (practice) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 0% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Quizzes 2 to 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 10% (2.5% each) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Quizzes 6 and 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 10% (5% each) {{< br >}}{{< br >}}  |
-| Midterm 1 | 20% |
-| Midterm 2 | 20% |
-| Team Project | 15% |
-| Class Participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSE WORKS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Problem sets**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Written (not spreadsheet-based)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+10%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Spreadsheets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+10%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**In-class quizzes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Quiz 1 (practice)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+0%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Quizzes 2 to 5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+10% (2.5% each)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Quizzes 6 and 7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+10% (5% each)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm 2
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Project
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem Sets
 ------------
@@ -121,40 +256,495 @@ L = Lecture session
 
 R = Recitation session
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction | &nbsp; |
-| L2 | Formulations of linear and non-linear programs | &nbsp; |
-| R1 | Recitation 1 | &nbsp; |
-| L3 |  {{< br >}}{{< br >}} Geometry and visualizations of linear programs {{< br >}}{{< br >}} Quiz 1: Formulations {{< br >}}{{< br >}}  | Problem set 1 due |
-| L4 | The simplex method 1 | &nbsp; |
-| R2 | Recitation 2 | &nbsp; |
-| L5 |  {{< br >}}{{< br >}} The simplex method 2 {{< br >}}{{< br >}} Quiz 2: Formulations and LP geometry {{< br >}}{{< br >}}  | Problem set 2 due |
-| R3 | Recitation 3 | &nbsp; |
-| L6 | Sensitivity analysis and shadow prices | &nbsp; |
-| L7 |  {{< br >}}{{< br >}} Game theory 1: 2-person 0-sum, or constant sum {{< br >}}{{< br >}} Quiz 3: The simplex method {{< br >}}{{< br >}}  | Problem set 3 due |
-| R4 | Recitation 4 | &nbsp; |
-| L8 | Game theory 2 | &nbsp; |
-| L9 |  {{< br >}}{{< br >}} Discussion of projects; slack variables vs. artificial variables {{< br >}}{{< br >}} Quiz 4: Sensitivity analysis {{< br >}}{{< br >}}  | Problem set 4 due |
-| R5 | Recitation 5 | &nbsp; |
-| &nbsp; | Midterm exam 1 | &nbsp; |
-| L10 | Introduction to integer programming | Project: list of team members due one day prior |
-| L11 | Integer programming formulations | Project: topic and short description due 2 days later |
-| R6 | Recitation 6 | &nbsp; |
-| L12 | Integer programming techniques 1: branch and bound | &nbsp; |
-| L13 |  {{< br >}}{{< br >}} Integer programming techniques 2: cutting planes {{< br >}}{{< br >}} Quiz 5: Integer programming formulations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Project: draft proposal due {{< br >}}{{< br >}}  |
-| R7 | Recitation 7 | &nbsp; |
-| L14 | Integer programming formulations, again | &nbsp; |
-| L15 | Networks 1: Shortest path problem | Problem set 6 due |
-| R8 | Recitation 8 | &nbsp; |
-| &nbsp; | Midterm exam 2 | Project: final proposal due |
-| L16 | Networks 2: Network flows | &nbsp; |
-| L17 | Networks 3: Traveling salesman problem | Project: class vote on in-class presentations |
-| R9 | Recitation 9 | &nbsp; |
-| L18 |  {{< br >}}{{< br >}} Decision trees 1 {{< br >}}{{< br >}} Quiz 6: Networks {{< br >}}{{< br >}}  | &nbsp; |
-| L19 | Decision trees 2: the value of information | &nbsp; |
-| R10 | Recitation 10 | &nbsp; |
-| L20 |  {{< br >}}{{< br >}} Behavioral economics 1 {{< br >}}{{< br >}} Quiz 7: Decision trees {{< br >}}{{< br >}}  | Project: final team paper and individual learning due |
-| L21 | Behavioral economics 2 | &nbsp; |
-| L22 | Project reports | &nbsp; |
-| L23 |  {{< br >}}{{< br >}} Project reports {{< br >}}{{< br >}} Final feedback {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Formulations of linear and non-linear programs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Geometry and visualizations of linear programs
+
+Quiz 1: Formulations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+The simplex method 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The simplex method 2
+
+Quiz 2: Formulations and LP geometry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Sensitivity analysis and shadow prices
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Game theory 1: 2-person 0-sum, or constant sum
+
+Quiz 3: The simplex method
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Game theory 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of projects; slack variables vs. artificial variables
+
+Quiz 4: Sensitivity analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to integer programming
+{{< tdclose >}}
+{{< tdopen >}}
+Project: list of team members due one day prior
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Integer programming formulations
+{{< tdclose >}}
+{{< tdopen >}}
+Project: topic and short description due 2 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Integer programming techniques 1: branch and bound
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Integer programming techniques 2: cutting planes
+
+Quiz 5: Integer programming formulations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Project: draft proposal due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Integer programming formulations, again
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Networks 1: Shortest path problem
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+Project: final proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Networks 2: Network flows
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Networks 3: Traveling salesman problem
+{{< tdclose >}}
+{{< tdopen >}}
+Project: class vote on in-class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 9
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Decision trees 1
+
+Quiz 6: Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Decision trees 2: the value of information
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Behavioral economics 1
+
+Quiz 7: Decision trees
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Project: final team paper and individual learning due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Behavioral economics 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Project reports
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project reports
+
+Final feedback
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
